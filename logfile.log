@@ -1,0 +1,24 @@
+INFO	2024-01-28 13:50:28,651	0	org.example.Main	[main]	Attempting to add a recipe.Monkey Bread, take 2 eggs blah blah blah, 4
+INFO	2024-01-28 13:56:09,855	0	org.example.Main	[main]	Attempting to add a recipe.title, instructions, -1
+WARN	2024-01-28 13:56:09,857	2	org.example.Main	[main]	throwing recipe exception due to misformatted servings: -1
+INFO	2024-01-28 13:56:09,859	4	org.example.Main	[main]	Attempting to add a recipe.title, instructions, 1
+INFO	2024-01-28 13:56:09,872	17	org.example.Main	[main]	Now retrieving all recipes: [Recipe{title='title', instructions='instructions', servings=1, timeAdded=2024-01-28 13:56:09.859}]
+INFO	2024-01-28 13:56:09,873	18	org.example.Main	[main]	Now retrieving all recipes: []
+INFO	2024-01-28 17:43:30,333	0	org.example.Main	[main]	Attempting to add a recipe.detail, was hot, 4
+INFO	2024-01-28 17:51:45,977	0	org.example.Main	[main]	Now retrieving all recipes: []
+INFO	2024-01-28 17:51:45,987	10	org.example.Main	[main]	Attempting to add a recipe.title, instructions, -1
+WARN	2024-01-28 17:51:45,990	13	org.example.Main	[main]	throwing recipe exception due to misformatted servings: -1
+INFO	2024-01-28 17:51:45,990	13	org.example.Main	[main]	Attempting to add a recipe.title, instructions, 1
+INFO	2024-01-28 17:51:46,002	25	org.example.Main	[main]	Now retrieving all recipes: [Tracker{name='title', details='instructions', distance=1, timeAdded=2024-01-28 17:51:45.99}]
+INFO	2024-01-28 17:59:40,628	0	org.example.Main	[main]	Attempting to add a recipe.Joe, Hot with humidity, 5
+INFO	2024-01-28 18:01:05,548	0	org.example.Main	[main]	Now retrieving all recipes: []
+INFO	2024-01-28 18:01:05,558	10	org.example.Main	[main]	Attempting to add a recipe.title, instructions, -1
+WARN	2024-01-28 18:01:05,560	12	org.example.Main	[main]	throwing recipe exception due to misformatted servings: -1
+INFO	2024-01-28 18:01:05,561	13	org.example.Main	[main]	Attempting to add a recipe.title, instructions, 1
+INFO	2024-01-28 18:01:05,571	23	org.example.Main	[main]	Now retrieving all recipes: [Tracker{name='title', details='instructions', distance=1, timeAdded=2024-01-28 18:01:05.561}]
+INFO	2024-01-28 18:01:59,304	0	org.example.Main	[main]	Now retrieving all recipes: []
+INFO	2024-01-28 18:01:59,315	11	org.example.Main	[main]	Attempting to add a recipe.title, instructions, -1
+WARN	2024-01-28 18:01:59,317	13	org.example.Main	[main]	throwing recipe exception due to misformatted servings: -1
+INFO	2024-01-28 18:01:59,317	13	org.example.Main	[main]	Attempting to add a recipe.title, instructions, 1
+INFO	2024-01-28 18:01:59,329	25	org.example.Main	[main]	Now retrieving all recipes: [Tracker{name='title', details='instructions', distance=1, timeAdded=2024-01-28 18:01:59.317}]
+INFO	2024-01-28 18:02:15,145	0	org.example.Main	[main]	Now retrieving all recipes: []
